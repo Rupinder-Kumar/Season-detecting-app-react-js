@@ -1,12 +1,13 @@
-# Season-detecting-app-react-js
+# Season detecting app using react js
 Season Detecting App built with React JS and Geolocation API, This app detects hemisphere and current season using Latitude and returns Apllication view based on season.
 
 # Geolocation API
 https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
 
-#Semantic UI
+# Semantic UI
 https://semantic-ui.com
 https://cdnjs.com/libraries/semantic-ui
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
